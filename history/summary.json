@@ -4,19 +4,20 @@
     "url": "https://corpuscom.hu",
     "icon": "https://icons.duckduckgo.com/ip3/corpuscom.hu.ico",
     "slug": "corpuscom",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2055,
-    "timeDay": 2397,
-    "timeWeek": 2055,
-    "timeMonth": 2055,
-    "timeYear": 2055,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 2003,
+    "timeDay": 1990,
+    "timeWeek": 2003,
+    "timeMonth": 2003,
+    "timeYear": 2003,
     "dailyMinutesDown": {
-      "2025-06-16": 1
+      "2025-06-17": 14,
+      "2025-06-16": 6
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://lector.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lector.hu.ico",
     "slug": "lector",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1820,
-    "timeWeek": 1719,
-    "timeMonth": 1719,
-    "timeYear": 1719,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1701,
+    "timeDay": 1691,
+    "timeWeek": 1701,
+    "timeMonth": 1701,
+    "timeYear": 1701,
     "dailyMinutesDown": {
-      "2025-06-16": 0
+      "2025-06-17": 14,
+      "2025-06-16": 6
     }
   }
 ]
