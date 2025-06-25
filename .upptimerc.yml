@@ -8,6 +8,7 @@ sites:
     url: https://lector.hu
 
 status-website:
+  baseUrl: /status
   logoUrl: https://corpuscom.hu/img/cc_logo.png
   name: Status
   introTitle:
