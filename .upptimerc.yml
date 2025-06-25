@@ -9,6 +9,7 @@ sites:
 
 status-website:
   baseUrl: /status
+  theme: light
   logoUrl: https://corpuscom.hu/img/cc_logo.png
   name: Status
   introTitle:
